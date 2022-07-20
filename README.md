@@ -1,5 +1,6 @@
 # SwinstorFinal
-Final version of software delivered to LLC on 30Jul2021\n
+Final version of software delivered to LLC on 30Jul2021
+
 I tried:
 1. making a **branch** off it, 
 2. changing *README.md* and 
